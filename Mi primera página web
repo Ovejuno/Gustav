@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<TITLE> A miña primeira páxina web</TITLE>
+	<META charset="utf-8/>
+	<META name="description" content=exemplo de html básico" />
+	<META  name="keywords" content="html,web,udc,cav" />
+
+
+</HEAD>
+<BODY>
+Ola mundo!
+<p> Texto de exemplo</p>
+
+
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>
